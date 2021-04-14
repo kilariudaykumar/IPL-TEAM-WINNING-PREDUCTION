@@ -1,0 +1,2 @@
+# IPL-TEAM-WINNING-PREDUCTION
+Cricket, the mainstream and widely played sport across India which has the most noteworthy fan base. Indian Premier League follows 20-20 format which is very unpredictable. IPL match predictor is a ML based prediction approach where the data sets and previous stats are trained in all dimensions covering all important factors such as:  Toss, Home Ground, Captains, Favourite Players, Opposition Battle, Previous Stats etc, with each factor having different strength.
